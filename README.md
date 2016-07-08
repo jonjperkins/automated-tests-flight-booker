@@ -1,1 +1,1 @@
-Coding challenge for SDET position at Namely. 
+Automated tests for my flight booking demo application. Tests written with Cucumber, Capybara, and Selenium.

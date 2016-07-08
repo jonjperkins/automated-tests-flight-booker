@@ -9,5 +9,5 @@ Scenario:
 	Given I am on the home page
 	  And I enter date, city, and passenger information
 	When I press the button to search for flights
-	Then I should see a listing of available flights below the search form
+	Then I should see a listing of available flights
 	  And the search form should still be present on the screen
