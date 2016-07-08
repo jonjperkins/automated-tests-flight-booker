@@ -1,0 +1,1 @@
+Coding challenge for SDET position at Namely. 
